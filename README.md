@@ -58,16 +58,20 @@ All code for the project is contained in a Google Colab notebook. [Download the 
 
 **For example:**
 
-Clone the repository and navigate to the directory.
+1. Clone the repository and navigate to the directory.
 
-Run the following command to open Jupyter Notebook:
 
-    ```bash
-    git clone https://github.com/TAHabib0012/MU_PDS_01_Tahmid_PDSID_25_Predicting_Network_Congestion_in_Cloud_Systems.git
-    cd Predicting-Network-Congestion-in-Cloud-System
-    ```
+      ```bash
+      git clone https://github.com/TAHabib0012/MU_PDS_01_Tahmid_PDSID_25_Predicting_Network_Congestion_in_Cloud_Systems.git
+      cd Predicting-Network-Congestion-in-Cloud-System
+      ```
+
+2. **Open the Colab Notebook**:
+
+   Upload the notebook to your Google Drive and open it in Google Colab to run the code and explore the project in detail.
 
 **Results and Discussion**
+
 <br>The project demonstrates that by analyzing IP and network data, it's possible to predict congestion trends with reasonable accuracy. The final model, after tuning, achieves the following performance:
 
 **MAE:** 47.035556504400944
@@ -89,5 +93,6 @@ Run the following command to open Jupyter Notebook:
 <br>**[Tahmid Ahmed Habib]**
 
 **Acknowledgments**
+
 <br>This project was developed as part of a regression analysis and machine learning study. Special thanks to the data providers and any contributors involved.
 
